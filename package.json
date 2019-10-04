@@ -15,5 +15,10 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Oprea Roxana",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ]
 }
