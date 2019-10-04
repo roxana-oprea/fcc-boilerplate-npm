@@ -14,5 +14,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Oprea Roxana"
+  "author": "Oprea Roxana",
+  "description": "A project that does something awesome"
 }
